@@ -22,7 +22,6 @@ except ImportError:
     HAVE_NUMPY = False
 
 classifiers = [
-    'Programming Language :: Python :: 2',
     'Programming Language :: Python :: 3',
     'Intended Audience :: Science/Research',
     'License :: OSI Approved :: MIT License',
