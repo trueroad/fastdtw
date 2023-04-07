@@ -60,9 +60,9 @@ pytest_runner = ['pytest-runner'] if needs_pytest else []
 
 kwargs = {
     'name': 'fastdtw',
-    'version': '0.3.4',
-    'author': 'Kazuaki Tanida',
-    'url': 'https://github.com/slaypni/fastdtw',
+    'version': '0.3.4+partial.matching.20230407',
+    'author': 'Kazuaki Tanida, Masamichi Hosoda',
+    'url': 'https://github.com/trueroad/fastdtw/releases',
     'description': 'Dynamic Time Warping (DTW) algorithm with an O(N) time and memory complexity.',
     'long_description': long_description,
     'license': 'MIT',
